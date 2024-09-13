@@ -8,7 +8,7 @@ Download output modified NC file.
 
 The app looks for `F*` values and changes them.
 
-<https://feed-mod.surge.sh/>
+<https://andygock.github.io/feed-modifier/>
 
 ## Developer notes
 
